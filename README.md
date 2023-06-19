@@ -1,1 +1,1 @@
-https://NataliKnv/rsschool-cv/cv
+https://NataliKnv.github.io/rsschool-cv/cv
