@@ -9,7 +9,7 @@
 
 
 ## About me:
-I’m 42 years old. Now I live in Minsk, but plane to live in Poland. 
+I’m 42 years old. Now I live in Minsk, but plan to live in Poland. 
 
 Currently I’m work as a private entrepreneur. I like coffee and I own a coffee-point. 
 
@@ -45,8 +45,13 @@ I’m learning Polish and English. It’s hard for me, but I do it because I hav
 
 ## Code examples:
 ```
-function multiply(a, b){
-  return a * b
-}
+day = int(input())
+if day == 6 or day == 7:
+    print('yes')
+elif day > 0 and day < 6:
+    print('no')
+else:
+    print('cheсk')
+
 ```
 
